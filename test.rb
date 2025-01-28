@@ -46,22 +46,29 @@ local_var = 'testvar'
 #   end
 
 ### Blocks
-def test
-    puts 'You are in the method'
-    yield
-    puts 'You are back to the method again'
-    yield
-    puts 'You are back to the method once more'
-    yield
-  end
-  
-  test { puts 'You have yielded the method' }
+#def test
+#    puts 'You are in the method'
+#    yield
+#    puts 'You are back to the method again'
+#    yield
+#    puts 'You are back to the method once more'
+#    yield
+#  end
+#  
+#  test { puts 'You have yielded the method' }
 
 ### Blocks with arguments
-def test
-    yield 5, 7
-    puts 'You are in the method test'
-    yield 100, 84
- end
- 
- test { |i, j| puts "You are in block #{i}, giving #{j}" }
+#def test
+#    yield 5, 7
+#    puts 'You are in the method test'
+#    yield 100, 84
+# end
+# 
+# test { |i, j| puts "You are in block #{i}, giving #{j}" }
+
+for i in 0..5
+  if i < 2 then
+    next
+  end
+  puts "Value of local variable is #{i}"
+end

@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\i.smit\\Documents\\RubySilver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\i.smit\\Documents\\RubySilver\\calculator.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calculator.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\i.smit\\Documents\\RubySilver\\commands.rb||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:commands.rb||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\i.smit\\Documents\\RubySilver\\shell.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shell.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\i.smit\\Documents\\RubySilver\\test.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\i.smit\\Documents\\RubySilver\\people_importer.rb||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:people_importer.rb||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\i.smit\\Documents\\RubySilver\\person.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:person.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\i.smit\\Documents\\RubySilver\\person_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:person_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\i.smit\\Documents\\RubySilver\\calculator.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calculator.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +47,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "commands.rb",
+              "DocumentMoniker": "C:\\Users\\i.smit\\Documents\\RubySilver\\commands.rb",
+              "RelativeDocumentMoniker": "commands.rb",
+              "ToolTip": "C:\\Users\\i.smit\\Documents\\RubySilver\\commands.rb",
+              "RelativeToolTip": "commands.rb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002489|",
+              "WhenOpened": "2025-01-28T14:26:07.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shell.rb",
+              "DocumentMoniker": "C:\\Users\\i.smit\\Documents\\RubySilver\\shell.rb",
+              "RelativeDocumentMoniker": "shell.rb",
+              "ToolTip": "C:\\Users\\i.smit\\Documents\\RubySilver\\shell.rb",
+              "RelativeToolTip": "shell.rb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002489|",
+              "WhenOpened": "2025-01-28T13:53:21.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "people_importer.rb",
+              "DocumentMoniker": "C:\\Users\\i.smit\\Documents\\RubySilver\\people_importer.rb",
+              "RelativeDocumentMoniker": "people_importer.rb",
+              "ToolTip": "C:\\Users\\i.smit\\Documents\\RubySilver\\people_importer.rb",
+              "RelativeToolTip": "people_importer.rb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002489|",
+              "WhenOpened": "2025-01-28T09:49:33.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "person_data.csv",
+              "DocumentMoniker": "C:\\Users\\i.smit\\Documents\\RubySilver\\person_data.csv",
+              "RelativeDocumentMoniker": "person_data.csv",
+              "ToolTip": "C:\\Users\\i.smit\\Documents\\RubySilver\\person_data.csv",
+              "RelativeToolTip": "person_data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-01-28T09:48:49.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "person.rb",
+              "DocumentMoniker": "C:\\Users\\i.smit\\Documents\\RubySilver\\person.rb",
+              "RelativeDocumentMoniker": "person.rb",
+              "ToolTip": "C:\\Users\\i.smit\\Documents\\RubySilver\\person.rb",
+              "RelativeToolTip": "person.rb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002489|",
+              "WhenOpened": "2025-01-28T09:46:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "calculator.rb",
               "DocumentMoniker": "C:\\Users\\i.smit\\Documents\\RubySilver\\calculator.rb",
               "RelativeDocumentMoniker": "calculator.rb",
               "ToolTip": "C:\\Users\\i.smit\\Documents\\RubySilver\\calculator.rb",
               "RelativeToolTip": "calculator.rb",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAADAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002489|",
               "WhenOpened": "2025-01-27T13:53:00.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "test.rb",
               "DocumentMoniker": "C:\\Users\\i.smit\\Documents\\RubySilver\\test.rb",
               "RelativeDocumentMoniker": "test.rb",
               "ToolTip": "C:\\Users\\i.smit\\Documents\\RubySilver\\test.rb",
               "RelativeToolTip": "test.rb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002489|",
               "WhenOpened": "2025-01-27T08:18:28.81Z",
               "EditorCaption": ""
