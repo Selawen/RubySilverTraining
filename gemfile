@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'httparty'
+gem 'asciiartist'
+gem 'nokogiri', '~> 1.18', '>= 1.18.2'
